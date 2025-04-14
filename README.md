@@ -1,3 +1,2 @@
-# Credit_Card_Dash
-board
+# Credit_Card_Dashboard
 Power bi dashboard
